@@ -7,7 +7,7 @@ public abstract class Account4 {
 	//계좌번호(String형), 이름(String형), 잔액(int형)
 	 private String accountNum;
 	 private String name;
-	 int balance;
+	 int balance;////hhhh
 	//생성자 
 	public Account4(String accountNum, String name, int balance) {
 		//초기화 
